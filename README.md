@@ -1,3 +1,4 @@
+![Flutter developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/222307979_366694121511347_3752566827398249889_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=FratlULmuksAX8QcKio&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT-nw2EiHamZhlStFEZpbnIKipAZw-xFFUnLRjmQOl8mEQ&oe=61D5007D)
 # MOMIN
 #### Flutter developer
 For my career and my whole life, dreams are important.  Because I have only one life, I have ambitions in both my personal and professional life.  Although they can change, without a goal, nothing can be achieved.  So, in order to move forward in my career, I have to honestly start working on it.
