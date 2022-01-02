@@ -1,4 +1,4 @@
-![Flutter developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/222307979_366694121511347_3752566827398249889_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=FratlULmuksAX8QcKio&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT-nw2EiHamZhlStFEZpbnIKipAZw-xFFUnLRjmQOl8mEQ&oe=61D5007D)
+![Flutter developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/s960x960/271126815_468641211316637_1173814775259607295_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=PaIQtz5FEwkAX_F9fO8&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT8A2t635Of9AxhhM8QqK3e0ENiDoBx-zcU7A6NeZMxwKQ&oe=61D56EBC)
 
 # MOMIN
 ##### Flutter developer
