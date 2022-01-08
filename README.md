@@ -11,7 +11,7 @@ For my career and my whole life, dreams are important.  Because I have only one 
 
   No matter where I am in the field, I will always be there to learn.  I will continue to practice questions related to the field in which I have a degree or in which I am interested.  This will further contribute to my career development.
 
-Skills: FLUTTER / REACT / HTML / Dart
+Skills: FLUTTER / REACT 
 
 - 🔭 I’m currently working on this page. 
 
