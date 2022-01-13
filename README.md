@@ -3,13 +3,7 @@
 # MOMIN
 ##### Flutter developer
 
-For my career and my whole life, dreams are important.  Because I have only one life, I have ambitions in both my personal and professional life.  Although they can change, without a goal, nothing can be achieved.  So, in order to move forward in my career, I have to honestly start working on it.
-
-  My self-confidence
-
-  As my career progresses and my skills increase, my experience will grow and a particular organization will begin to understand my significance.  I have faith in the skills I have acquired.  It will help me to develop my career and create a positive career graph.
-
-  No matter where I am in the field, I will always be there to learn.  I will continue to practice questions related to the field in which I have a degree or in which I am interested.  This will further contribute to my career development.
+Wish to begin my career as a good Flutter Developer by working on challenging projects. Further want to deal with each and every aspect and work related to Flutter Developer. At the end of the day I want to be a satisfied Flutter Developer.
 
 Skills: FLUTTER / REACT 
 
