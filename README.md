@@ -3,16 +3,26 @@
 # MOMIN
 Wish to begin my career as a good Flutter Developer by working on challenging projects. Further want to deal with each and every aspect and work related to Flutter Developer. At the end of the day I want to be a satisfied Flutter Developer.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg' alt='github' height='20'>](https://github.com/fdmominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/fdmominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](u/fdmominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Eng-MOMIN-105503524297076/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fdmominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/fdmominbd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://https://stackoverflow.com/users/17600968/fd-momin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/c/islamAdvocacy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/fdmominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](mominbd.net)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg' alt='github' height='25'>](https://github.com/fdmominbd)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg' alt='dev' height='25'>](https://dev.to/fdmominbd)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg' alt='dev' height='25'>](u/fdmominbd) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/emominbd)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v31/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/Eng-MOMIN-105503524297076/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/fdmominbd) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/fdmominbd) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg' alt='stackoverflow' height='25'>](https://https://stackoverflow.com/users/17600968/fd-momin) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/c/islamAdvocacy)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-iconsv3/icons/reddit.svg' alt='Reddit' height='25'>](https://www.reddit.com/user/fdmominbd)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg' alt='website' height='25'>](mominbd.net)  
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd)](https://github.com/anuraghazra/github-readme-stats)
 
