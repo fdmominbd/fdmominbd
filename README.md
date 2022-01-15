@@ -1,8 +1,6 @@
 ![Flutter developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/s960x960/271179526_469276727919752_7535063249386228085_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ek4rN-bgFNoAX9jrZbY&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT8ltNVKM_6qr406DStrK8mk5-Uc8xqC_kWiBIH-VKAFNQ&oe=61DD9BC0)
 
 # MOMIN
-##### Flutter developer
-
 Wish to begin my career as a good Flutter Developer by working on challenging projects. Further want to deal with each and every aspect and work related to Flutter Developer. At the end of the day I want to be a satisfied Flutter Developer.
 
 Skills: FLUTTER / REACT 
