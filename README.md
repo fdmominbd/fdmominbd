@@ -1,9 +1,7 @@
 ![Flutter developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/s960x960/271179526_469276727919752_7535063249386228085_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ek4rN-bgFNoAX9jrZbY&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT8ltNVKM_6qr406DStrK8mk5-Uc8xqC_kWiBIH-VKAFNQ&oe=61DD9BC0)
 
 # MOMIN
-Wish to begin my career as a good Flutter Developer by working on challenging projects. Further want to deal with each and every aspect and work related to Flutter Developer. At the end of the day I want to be a satisfied Flutter Developer.
-
-![Profile views](https://gpvc.arturio.dev/fdmominbd) 
+Wish to begin my career as a good Flutter Developer by working on challenging projects. Further want to deal with each and every aspect and work related to Flutter Developer. At the end of the day I want to be a satisfied Flutter Developer. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg' alt='github' height='25'>](https://github.com/fdmominbd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg' alt='dev' height='27'>](https://dev.to/fdmominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg' alt='dev' height='25'>](u/fdmominbd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/emominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/Eng-MOMIN-105503524297076/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/fdmominbd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/fdmominbd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg' alt='stackoverflow' height='25'>](https://https://stackoverflow.com/users/17600968/fd-momin) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/c/islamAdvocacy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg' alt='Reddit' height='25'>](https://www.reddit.com/user/fdmominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg' alt='website' height='25'>](mominbd.net)  
 
@@ -18,8 +16,6 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fdmominbd&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fdmominbd)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fdmominbd) 
 
-![GitHub metrics](https://metrics.lecoq.io/fdmominbd)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fdmominbd)   
+![Profile views](https://gpvc.arturio.dev/fdmominbd)
