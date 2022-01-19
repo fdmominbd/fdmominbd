@@ -9,6 +9,7 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img alt="firebase" title="firebase" height="25" src="https://github.com/tkswann2/tech-logos/blob/master/firebase.png?raw=true"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -17,7 +18,7 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![j-j-gajjar snake gif](https://github.com/j-j-gajjar/j-j-gajjar/blob/output/github-contribution-grid-snake.svg)   
+![fdmominbd snake gif](https://github.com/fdmominbd/fdmominbd/blob/output/github-contribution-grid-snake.svg)   
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fdmominbd&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd)](https://github.com/anuraghazra/github-readme-stats) 
