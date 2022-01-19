@@ -14,6 +14,12 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+## Watch my contribution graph get eaten by the snake 🐍
+
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+![j-j-gajjar snake gif](https://github.com/j-j-gajjar/j-j-gajjar/blob/output/github-contribution-grid-snake.svg)   
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fdmominbd&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=fdmominbd&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/fdmominbd)
