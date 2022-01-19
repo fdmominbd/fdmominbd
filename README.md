@@ -26,16 +26,11 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![fdmominbd snake gif](https://github.com/fdmominbd/fdmominbd/blob/output/github-contribution-grid-snake.svg)   
 
+  ## Show some ❤️ by starring some of the repositories!
+  
+  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd&theme=synthwave&layout=compact" alt="fdmominbd's GitHub top languages"
+/><img height="125" src="https://github-readme-stats.vercel.app/api?username=fdmominbd&show_icons=true&theme=synthwave&count_private=true" alt="fdmominbd's GitHub stats"
+/>
 
-## Show some ❤️ by starring some of the repositories!
-
-</div>
-
-<br/>
-<p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd&theme=dark&hide_langs_below=1" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fdmominbd&show_icons=true&theme=dracula&line_height=27" />
-</p>
-<br>
 
 ![Profile views](https://gpvc.arturio.dev/fdmominbd)
