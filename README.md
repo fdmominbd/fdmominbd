@@ -27,8 +27,8 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 
 <br/>
 <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-j-gajjar&theme=dark&hide_langs_below=1" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=j-j-gajjar&show_icons=true&theme=dracula&line_height=27" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd&theme=dark&hide_langs_below=1" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fdmominbd&show_icons=true&theme=dracula&line_height=27" />
 </p>
 <br>
 
