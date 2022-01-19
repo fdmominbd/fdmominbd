@@ -11,6 +11,8 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img alt="firebase" title="firebase" height="25" src="https://github.com/tkswann2/tech-logos/blob/master/firebase.png?raw=true"></code>
+<code><img alt="C" title="C" height="20" src="https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069"></code>
+<code><img alt="github" title="github" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/github.png?raw=true"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
