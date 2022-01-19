@@ -21,20 +21,13 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
- [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=fdmominbd&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/fdmominbd)
  
-  
-## Watch my contribution graph get eaten by the snake 🐍
-
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![fdmominbd snake gif](https://github.com/fdmominbd/fdmominbd/blob/output/github-contribution-grid-snake.svg)   
-
   ## Show some ❤️ by starring some of the repositories!
   
   <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd&theme=synthwave&layout=compact" alt="fdmominbd's GitHub top languages"
 /><img height="125" src="https://github-readme-stats.vercel.app/api?username=fdmominbd&show_icons=true&theme=synthwave&count_private=true" alt="fdmominbd's GitHub stats"
 />
 
+ [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=fdmominbd&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/fdmominbd)
 
 ![Profile views](https://gpvc.arturio.dev/fdmominbd)
