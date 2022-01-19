@@ -16,6 +16,7 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fdmominbd&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fdmominbd) 
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=fdmominbd&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/fdmominbd)
+
 
 ![Profile views](https://gpvc.arturio.dev/fdmominbd)
