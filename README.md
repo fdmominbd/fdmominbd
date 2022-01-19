@@ -21,7 +21,17 @@ Wish to begin my career as a good Flutter Developer by working on challenging pr
 ![fdmominbd snake gif](https://github.com/fdmominbd/fdmominbd/blob/output/github-contribution-grid-snake.svg)   
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fdmominbd&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdmominbd)](https://github.com/anuraghazra/github-readme-stats) 
+## Show some ❤️ by starring some of the repositories!
+
+</div>
+
+<br/>
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-j-gajjar&theme=dark&hide_langs_below=1" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=j-j-gajjar&show_icons=true&theme=dracula&line_height=27" />
+</p>
+<br>
+
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=fdmominbd&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/fdmominbd)
 
