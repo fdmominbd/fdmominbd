@@ -3,21 +3,8 @@
 # MOMIN
 Wish to begin my career as a good Flutter Developer by working on challenging projects. Further want to deal with each and every aspect and work related to Flutter Developer. At the end of the day I want to be a satisfied Flutter Developer. 
 
-<a href="https://github.com/fdmominbd/rescript-next?sponsor=1">
-  <img width="140" align="right" alt="Sponsoring button" src="https://github.com/fdmominbd/.github/raw/main/FUNDING.svg">
-</a>
-
 ## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg' alt='github' height='25'>](https://github.com/fdmominbd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg' alt='dev' height='27'>](https://dev.to/fdmominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg' alt='dev' height='25'>](u/fdmominbd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/emominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/Eng-MOMIN-105503524297076/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/fdmominbd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/fdmominbd) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg' alt='stackoverflow' height='25'>](https://https://stackoverflow.com/users/17600968/fd-momin) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/c/islamAdvocacy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg' alt='Reddit' height='25'>](https://www.reddit.com/user/fdmominbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg' alt='website' height='25'>](mominbd.net)  
-
-  [<img align="left" alt="islamadvocacy | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
-[<img align="left" alt="Md. Al-Amin | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="Md. Al-Amin | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-[<img align="left" alt="Md. Al-Amin | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
-[<img align="left" alt="Md. Al-Amin | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-
-<br /> 
-  
   
 ## Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
